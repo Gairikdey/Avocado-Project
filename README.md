@@ -15,12 +15,5 @@
    
    * PLU - Product Lookup codes 
    
-# Facebook Prophet
-   
-1. Prophet is open source software released by Facebook’s Core Data Science team.
-2. Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly,    and daily seasonality, plus holiday effects. 
-3. Prophet works best with time series that have strong seasonal effects and several seasons of historical data. 
-4. For more information, please check this out: 
-   https://research.fb.com/prophet-forecasting-at-scale/
-   https://facebook.github.io/prophet/docs/quick_start.html#python-api
+
 
